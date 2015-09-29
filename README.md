@@ -11,7 +11,7 @@ Required:
 <li>Sign In <br>
  -Tapping on email/password reveals keyboard <br>
  -User sees an error alert when no email is present or no password is present<br>
- -alertController.dismissViewControllerAnimated(true, completion: nil) dismisses the alert controller loading<br> screen with no buttons
+ -alertController.dismissViewControllerAnimated(true, completion: nil) dismisses the alert controller loading<br> screen with no buttons <br>
  -User sees an error alert when entering the wrong email/password combination<br>
  -User is taken to the tutorial screens upon entering the correct email/password combination<br>
  <li>Tutorial Screens <br>
@@ -27,7 +27,7 @@ Required:
 Optional:
 <ul>
 <li>Photo tiles move with scrolling<br>
-<li>Sign Up 
+<li>Sign Up <br>
   -Tapping in the form reveals the keyboard and shifts the form up <br>
   -Tapping the Agree to Terms checkbox selects the checkbox <br>
   -Tapping on Terms opens webview with mobile terms of service page <br>
