@@ -37,4 +37,4 @@ Optional:
 </ul>
 
 Walkthrough of all user stories:<br><br>
-![](http://i.imgur.com/28N0LaP.gif)<br><br>
+![](http://i.imgur.com/ThBJHSd.gif)
